@@ -1,8 +1,8 @@
-# Abstract: novathesis-ipl-isel-v8.0.0
+# Abstract: novathesis-ipl-isel-v8.0.1
 
 This is a customized LaTeX template for theses and reports at **Instituto Superior de Engenharia de Lisboa (ISEL)**, following the most recent [IPL-ISEL guidelines (in Portuguese)](https://www.isel.pt/informacoes-academicas/normas-trabalhos-finais). 
 
-This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (v8.0.0)**, trimmed down and optimized to provide ISEL students with a streamlined experience, meeting ISEL's academic formatting standards without the complexity of the original multi-institution template. 
+This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (v8.0.1)**, trimmed down and optimized to provide ISEL students with a streamlined experience, meeting ISEL's academic formatting standards without the complexity of the original multi-institution template. 
 
 ### Key Features:
 
